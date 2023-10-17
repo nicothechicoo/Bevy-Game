@@ -7,3 +7,6 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.11"
+rltk = { version = "0.8.7" }
+specs = "0.16.1"
+specs-derive = "0.4.1"
